@@ -1,5 +1,5 @@
 # LeetCode-and-HackerRank-Solutions
-## In this Repository I will solve HackerRank and LeetCode Questions!
+## In this Repository I will solve HackerRank and LeetCode Questions in Java, C++ and C Language!
 
 # HackerRank:
 ### Java:
