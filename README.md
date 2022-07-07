@@ -21,7 +21,15 @@
 6) Java Loops I:
    * Link of Question:  https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/Loops6.java
-
+7) Java Loops II:
+   * Link of Question: https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/Loops7.java
+8) Java Data-types:
+   * Link of Question: https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/DataTypes8.java
+9) Java End-of-file: 
+   * Link of Question: https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/EndOfFile9.java
 ***
 ### C++:
 
