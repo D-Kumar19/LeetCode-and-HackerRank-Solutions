@@ -48,7 +48,15 @@
 3) A Number After a Double Reversal:
    * Link of Question: https://leetcode.com/problems/a-number-after-a-double-reversal/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/ReverseInteger3.java
-
+4) Find First Palindromic String in the Array:
+   * Link to Question: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/FirstPalindromicString4.java
+5) Count Number of Pairs With Absolute Difference K:
+   * Link to Question: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/NumberOfPairsAbsoluteDiffK5.java
+6) Count Equal and Divisible Pairs in an Array: 
+   * Link to Question: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/CountEqualsAndDivisiblePairsInAnArray6.java 
 ***
 ### C++:
 1) Binary Search:
@@ -60,3 +68,13 @@
 3) A Number After a Double Reversal:
    * Link of Question: https://leetcode.com/problems/a-number-after-a-double-reversal/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/ReverseInteger3.cpp
+4) Find First Palindromic String in the Array:
+   * Link to Question: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/FristPalindromicString4.cpp
+5) Count Number of Pairs With Absolute Difference K:
+   * Link to Question: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/NumberOfPairsAbsoluteDiffK5.cpp
+6) Count Equal and Divisible Pairs in an Array:
+   * Link to Question: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+   * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/CountEqualsAndDivisiblePairsInAnArray6.cpp
+***
