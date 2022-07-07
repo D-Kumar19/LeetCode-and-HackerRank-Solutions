@@ -35,7 +35,7 @@
    * Link of Question: https://leetcode.com/problems/binary-search/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/BinarySearch1.java
 2) Reverse Integer:
-   * Link of Question: https://leetcode.com/problems/reverse-integer/submissions/
+   * Link of Question: https://leetcode.com/problems/reverse-integer/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/Java/NumberAfterDoubleReversal2.java
 3) A Number After a Double Reversal:
    * Link of Question: https://leetcode.com/problems/a-number-after-a-double-reversal/
@@ -47,7 +47,7 @@
    * Link of Question: https://leetcode.com/problems/binary-search/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/BinarySearch1.cpp
 2) Reverse Integer:
-   * Link of Question: https://leetcode.com/problems/reverse-integer/submissions/
+   * Link of Question: https://leetcode.com/problems/reverse-integer/
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/LeetCode/CPlus/NumberAfterDoubleReversal2.cpp
 3) A Number After a Double Reversal:
    * Link of Question: https://leetcode.com/problems/a-number-after-a-double-reversal/
