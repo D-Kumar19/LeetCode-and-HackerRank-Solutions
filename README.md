@@ -30,6 +30,15 @@
 9) Java End-of-file: 
    * Link of Question: https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true
    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/EndOfFile9.java
+10) Java Static Initializer Block:  
+    * Link to Question: https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true
+    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/StaticBlockInitializer10.java
+11) Java Int to String:
+    * Link to Question: https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true
+    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/IntToString11.java
+12) Java Date and Time: 
+    * Link to Question: https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true
+    * Answer: https://github.com/D-Kumar19/LeetCode-and-HackerRank-Solutions/blob/master/src/main/java/HackerRank/Java/DateAndTime12.java
 ***
 ### C++:
 
